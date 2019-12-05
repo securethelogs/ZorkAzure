@@ -19,6 +19,6 @@ Import the module....
 import-module [location of file]\zorkazure.ps1
 
 Then run: zorkazure and enter the location of your wordlist:
-
+![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2019/12/image-16.png)
 
 
