@@ -102,7 +102,7 @@ Write-Output "Queue Found: $word.queue.core.windows.net"
 
          if ($resultfile -eq "True"){
 
-Write-Output "Queue Found: $word.file.core.windows.net"
+Write-Output "File Found: $word.file.core.windows.net"
 
 } else {
 
