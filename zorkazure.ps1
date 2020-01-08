@@ -13,7 +13,7 @@
 		See guide: https://securethelogs.com/zorkazure-enumerating-azure-resources/
 
 	.NOTES
-		Aurthor: https://Securethelogs.com -  @wet_slappy
+		Aurthor: https://Securethelogs.com -  @securethelogs
 		
 		.
 #>
