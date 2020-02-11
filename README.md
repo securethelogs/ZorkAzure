@@ -1,5 +1,5 @@
 # ZorkAzure
-![Ctrlaltdel.blog](https://ctrla1tdel.files.wordpress.com/2019/04/cropped-thumb-1920-865098.jpg)
+![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2019/12/image-16.png)
 
 When you use Azure resources, the naming of them is somewhat irrelevant isn’t it? Well no…..
 The naming of the resource is somewhat important. The reason why is that Azure follows the same patterns for its resources. For example: 
@@ -16,10 +16,11 @@ More Info: https://securethelogs.com/zorkazure-enumerating-azure-resources/
 
 Running the script.......
 
-Import the module.... 
-- import-module [location of file]\zorkazure.ps1
+Simply run the script locally or remotely using: 
 
-Then run: zorkazure and enter the location of your wordlist:
-![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2019/12/image-16.png)
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/ZorkAzure/master/zorkazure.ps1’)”
+
+
+
 
 
