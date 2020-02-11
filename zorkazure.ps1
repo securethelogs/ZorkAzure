@@ -19,7 +19,6 @@
 #>
 
 
-function ZorkAzure {
 
 Write-Output " "
 Write-Output "  ________                 __      ______                                 "
@@ -129,4 +128,3 @@ Write-Output "`n"
 Write-Output "`n"
 Write-Output "If no results were found, try checking your wordlist or network connection"
 
-}
